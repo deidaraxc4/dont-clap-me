@@ -1,6 +1,6 @@
 {
   "name": "@deidaraxc4/dont-clap-me",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "adds 👏 clap 👏 emojis 👏 between 👏 words",
   "main": "index.js",
   "scripts": {
