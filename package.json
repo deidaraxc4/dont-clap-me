@@ -1,7 +1,7 @@
 {
   "name": "@deidaraxc4/dont-clap-me",
   "version": "1.0.0",
-  "description": "adds clap emoji between words",
+  "description": "adds 👏 clap 👏 emojis 👏 between 👏 words",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,5 +10,6 @@
     "meme"
   ],
   "author": "Nick Tang",
-  "license": "ISC"
+  "license": "ISC",
+  "homepage": "https://github.com/deidaraxc4/dont-clap-me"
 }
