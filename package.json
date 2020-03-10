@@ -9,6 +9,7 @@
   "keywords": [
     "meme"
   ],
+  "bin": "./index.js",
   "author": "Nick Tang",
   "license": "ISC",
   "homepage": "https://github.com/deidaraxc4/dont-clap-me"
